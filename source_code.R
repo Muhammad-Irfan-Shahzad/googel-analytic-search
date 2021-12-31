@@ -2,7 +2,6 @@
 #title: "Google Search Analytics"
 
 knitr::opts_chunk$set(echo = TRUE)
-```
 
 
 library(ggplot2)
